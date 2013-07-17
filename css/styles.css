@@ -4,7 +4,7 @@ html, body, p, h1, h2, h3 {font-family: "Ubuntu", sans-serif;}
 
 body {padding-top: 40px; padding-bottom: 40px; background: #eeeeee; font-size: 18px; line-height:30px;}
 footer {padding:20px;}
-#overview {background: url('../img/hxma.jpg') no-repeat; background-size:100%; color: #ffffff;}
+#overview {background: url('../img/hxma.jpg') no-repeat; background-size:100% 100%; color: #ffffff;}
 
 .bgdark {background: #2c3e50; color: #ffffff;}
 .bgsilver {background: #7f8c8d; color: #ffffff;}
